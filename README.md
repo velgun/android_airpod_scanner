@@ -13,7 +13,7 @@ The app provides a convenient pop-up dialog that automatically appears when your
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/ss01.png" alt="ss01.png" width="250"/>
-  <img src="screenshots/ss02.png" alt="ss02.png" width="250"/>
+  <img src="screenshots/ss01.png" alt="ss01.png" width="250" style="margin-right: 30px;"/>
+  <img src="screenshots/ss02.png" alt="ss02.png" width="250" style="margin-right: 30px;"/>
   <img src="screenshots/ss03.png" alt="ss03.png" width="250"/>
 </p>
